@@ -1,0 +1,7 @@
+Flask>=2.0
+pandas
+numpy
+matplotlib
+pyotp
+qrcode[pil]
+Werkzeug
